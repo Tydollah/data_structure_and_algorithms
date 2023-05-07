@@ -5,7 +5,6 @@ def get_smallest_integer(my_list):
             smallest = n
     return smallest
 
-
 if __name__ == "__main__":
     my_list = [4, 14, 23, 94, 27, 24, 32]
     smallest = get_smallest_integer(my_list)
